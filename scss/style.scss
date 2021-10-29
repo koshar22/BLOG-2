@@ -29,6 +29,7 @@ h4 {
     background-color: #fff;
     padding: $base-width+10 $base-width*4;
     margin: 0 $margin-width;
+    box-shadow: 2px 3px 10px 3px #aaa;
 
     .item {
         text-align: center;
@@ -45,7 +46,7 @@ h4 {
             width: 50px;
             // height: 10px;
             top: 130px;
-            left: 47.5%;
+            left: 47.8%;
         }
 
 
@@ -105,6 +106,10 @@ h4 {
             p {
                 color: $text-color;
                 margin-bottom: 40px;
+            }
+
+            .para {
+                line-height: 25px;
             }
 
             .buttons {
