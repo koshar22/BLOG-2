@@ -29,7 +29,7 @@ h4 {
     background-color: #fff;
     padding: $base-width+10 $base-width*4;
     margin: 0 $margin-width;
-    box-shadow: 2px 3px 10px 3px #aaa;
+    box-shadow: 2px 3px 10px 3px #aaa; 
 
     .item {
         text-align: center;
@@ -118,7 +118,7 @@ h4 {
                     text-transform: uppercase;
                     color: $main-color;
                     background-color: $white-text;
-                    padding: 10px 25px;
+                    padding: 10px 25px;  
                     border: 1px solid $main-color;
                     // font-size: smaller;
 
